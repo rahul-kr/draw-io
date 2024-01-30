@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T13:54:34.337Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="b-cOtfpJcFvhHDoIXy3g" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T05:03:46.226Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XuU7BYWis2m3ZT5WrRzC" version="23.0.2" type="github">
   <diagram name="Page-1" id="N5_7dIzfm9vI_upbAULi">
-    <mxGraphModel dx="1434" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,13 +56,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FLn_YwVGMpNuXglEpiZ--20" value="Staging - Common for all" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-150" width="130" height="30" as="geometry" />
+          <mxGeometry x="650" y="-150" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FLn_YwVGMpNuXglEpiZ--22" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;opacity=10;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=4;perimeterSpacing=5;" vertex="1" parent="1">
           <mxGeometry x="10" y="-10" width="680" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="FLn_YwVGMpNuXglEpiZ--23" value="Staging - Production" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="10" width="130" height="30" as="geometry" />
+        <mxCell id="FLn_YwVGMpNuXglEpiZ--23" value="Production" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="10" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FLn_YwVGMpNuXglEpiZ--24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0;direction=north;" vertex="1" parent="1">
           <mxGeometry x="200" y="370" width="250" height="20" as="geometry" />
@@ -81,6 +81,12 @@
         </mxCell>
         <mxCell id="FLn_YwVGMpNuXglEpiZ--29" value="Hosted on OVH" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FLn_YwVGMpNuXglEpiZ--30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="539" y="-60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FLn_YwVGMpNuXglEpiZ--31" value="Hosted on GCP" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="-80" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
