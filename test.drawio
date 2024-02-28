@@ -1,9 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T07:04:22.731Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="21.5.1" etag="6kzB81813AcnqFphwyna" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T02:38:40.396Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aIaCXWmAXxF5cnZw4-Oc" version="21.5.1" type="github">
   <diagram name="Page-1" id="5BRo1lqDKcOuHBqlhCbc">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pdIfbIE-d4g4McfvA94v-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="73" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="pdIfbIE-d4g4McfvA94v-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="pdIfbIE-d4g4McfvA94v-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="140" as="targetPoint" />
+            <mxPoint x="419" y="301" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="521" y="301" />
+              <mxPoint x="521" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pdIfbIE-d4g4McfvA94v-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="pdIfbIE-d4g4McfvA94v-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="301" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pdIfbIE-d4g4McfvA94v-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="pdIfbIE-d4g4McfvA94v-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="490" as="targetPoint" />
+            <mxPoint x="419" y="301" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="521" y="301" />
+              <mxPoint x="521" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pdIfbIE-d4g4McfvA94v-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataCenter;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="60" width="123" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="pdIfbIE-d4g4McfvA94v-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataCenter;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="123" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="pdIfbIE-d4g4McfvA94v-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataCenter;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="123" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="pdIfbIE-d4g4McfvA94v-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.topic;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="268" width="49.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pdIfbIE-d4g4McfvA94v-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="249.5" y="223.5" width="170" height="166.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pdIfbIE-d4g4McfvA94v-15" value="Topic having replication 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327.38" y="342" width="94.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pdIfbIE-d4g4McfvA94v-16" value="Having rack config" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="268" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
